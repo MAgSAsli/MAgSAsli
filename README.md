@@ -47,7 +47,7 @@ I believe continuous learning and consistency are essential for growth as a deve
 
 ## 📂 Projects (Learning Journey)
 Some projects I’ve worked on during my learning journey:
-- 📝 **ToDo App** — React, Node.js, MongoDB   
+- 📝 **ToDo App** — React, localStorage   
 
 > These projects are part of my continuous learning and will keep evolving 🚀
 
