@@ -2,22 +2,24 @@
 
 🎓 **Informatics Student**  
 🌱 **Still learning and eager to grow as a developer**  
-💻 Aspiring **Fullstack Developer Intern**
+💻 Aspiring **Fullstack Developer Intern**  
 🏕️ Participant of **Coding Camp 2026 – Dicoding by DBS Foundation**
 
 ---
 
 ## 🧑‍💻 About Me
-I am an Informatics student who is **still in the learning process** and continuously improving my skills in software development.  
-I enjoy learning step by step, building projects from scratch, and understanding how things work behind the scenes.
+I am an Informatics student who is **actively learning and developing my skills** in software development.  
+Currently, I am participating in **Coding Camp 2026 by Dicoding in collaboration with DBS Foundation**, where I am strengthening my fundamentals in programming, web development, and problem-solving.
 
-Currently, I am focusing on:
-- Learning **backend fundamentals** with Node.js  
-- Building user interfaces using **React.js**  
-- Working with databases like **MongoDB**  
-- Improving programming logic and clean code practices  
+I enjoy learning step by step, building projects from scratch, and understanding how systems work behind the scenes.
 
-I believe growth comes from consistency, curiosity, and willingness to keep learning.
+My current learning focus includes:
+- Backend fundamentals using **Node.js**  
+- Frontend development with **React.js**  
+- Database management with **MongoDB**  
+- Writing clean and structured code  
+
+I believe continuous learning and consistency are essential for growth as a developer.
 
 ---
 
@@ -44,17 +46,24 @@ I believe growth comes from consistency, curiosity, and willingness to keep lear
 ---
 
 ## 📂 Projects (Learning Journey)
-Some projects I’ve worked on as part of my learning process:
-- 📝 **ToDo App** — React, Node.js, MongoDB
-- 
-> These projects are continuously being improved as I learn more 🚀
+Some projects I’ve worked on during my learning journey:
+- 📝 **ToDo App** — React, Node.js, MongoDB   
 
-
-
-## 📫 Contact
-- 📧 Email: **mochamadagils@gmail.com**
-- 💼 Open for **internship opportunities, learning experiences, and collaboration**
+> These projects are part of my continuous learning and will keep evolving 🚀
 
 ---
 
-✨ *Still learning, still growing, and enjoying every step of the journey.*  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAgSAsli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAgSAsli&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+- 📧 Email: **mochamadagils@gmail.com**
+- 💼 Open for **internship opportunities, and collaboration**
+
+---
+
+✨ *Still learning, still growing, and committed to becoming a better developer every day.*  
