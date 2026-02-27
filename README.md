@@ -3,6 +3,7 @@
 🎓 **Informatics Student**  
 🌱 **Still learning and eager to grow as a developer**  
 💻 Aspiring **Fullstack Developer Intern**
+🏕️ Participant of **Coding Camp 2026 – Dicoding by DBS Foundation**
 
 ---
 
