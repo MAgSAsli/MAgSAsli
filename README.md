@@ -48,14 +48,7 @@ Some projects I’ve worked on as part of my learning process:
 - 
 > These projects are continuously being improved as I learn more 🚀
 
----
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAgSAsli&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAgSAsli&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 - 📧 Email: **mochamadagils@gmail.com**
